@@ -62,3 +62,4 @@ but we are adding our username into that card to recognize that this card belong
 I didn't implement the allowance of users to share their business cards because of a lack of time.
 In order to do this, i would implement some "joints" while retrieving data from 'cards' collection.
 
+By Krishna Rasamy
